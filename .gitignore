@@ -26,3 +26,11 @@
 hs_err_pid*
 replay_pid*
 >>>>>>> ee2f6763abcdd325988aa68338211e2baeea7ea3
+# Eclipse workspace
+
+.metadata/
+
+
+# Eclipse project settings
+
+.settings/
